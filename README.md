@@ -1,13 +1,13 @@
 ####  Hola👋,   soy Juanjo 
-##### Estudiante de último año de programación
+##### Tecnico Superior en Desarrollo de Software
 
 ------------
 
 
 ------------
 - 🌄 Vivo en Guaymallén, Mendoza, Argentina.
-- 📚Estudiante de último año del  instituto [INCuyo](http://https://incuyo.edu.ar/ "INCuyo").
-- 🌱 Estoy en constante aprendizaje para logra mi meta de trabajar en IT.
+- 📚Recibido del Instituto Nuevo Cuyo [INCuyo](http://https://incuyo.edu.ar/ "INCuyo").
+- 🌱 Estoy en constante aprendizaje para lograr mi meta de trabajar en IT.
 
 ------------
 
